@@ -1,7 +1,5 @@
 #二つの文字列を与えられたときに、片方が片方の並べ替えになっているかどうか判定
 
-from cgi import test
-
 
 def anagramCheck(testWord1, testWord2):
     if len(testWord1) != len(testWord2):
