@@ -88,4 +88,29 @@
 # else:
 #     print("wrong")
 
+# testWord = "abcde"
+# print(testWord[i])
 
+# 1.3
+# space=2
+# replacedSpace = 1 + space*3
+# print(replacedSpace)
+
+# print(len("　"))
+# 全角文字も1文字扱い
+
+# Word = "g"
+# print(Word)
+# words = "abc"
+# NewWord = Word + words[1]
+# print(NewWord)
+
+# 1.4
+# l = [1,2,3,4,5,1,1,1]
+# print(l.count(l[0]))
+
+# for i in range(len(l)):
+#     print(l.count(l[i]))
+
+#　同じ文字だったらスキップしたい
+# set型は重複した要素をもたないデータ型で、set()にリストなどを渡すと、重複する値は無視されて一意な値のみが要素となるset型のオブジェクトを返す。
